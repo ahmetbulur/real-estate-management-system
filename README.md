@@ -1,6 +1,6 @@
 # Real Estate Management System
 
-- The subject of the project is to develop a real estate management software.
+- The subject of the project is to develop a real estate management software for DERE Company.
 - Enigma used for visualization ("enigma.jar" file should be imported.)
 - General Information :
 
